@@ -1,2 +1,2 @@
-# Project01_Snake_Game
+# project01_game_snake 
 This is my first personal project!
