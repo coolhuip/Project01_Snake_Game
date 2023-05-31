@@ -28,7 +28,7 @@ snake_body = [   # First 4 blocks of snake body
     [80, 50],
     [70, 50],
 ]
-snake_direction = INITIAL_DIRECTION
+snake_direction = initial_direction
 
 # Fruit
 fruit_position = [
