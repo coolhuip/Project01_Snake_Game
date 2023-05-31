@@ -1,0 +1,9 @@
+IMPORTS + FUNCTIONS used in this Snake Game project:
+
+import pygame as pg
+
+pg.init()
+pg.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
+pg.display.set_caption('window title')
+pg.time.Clock()
+
