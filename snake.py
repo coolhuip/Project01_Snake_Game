@@ -164,7 +164,7 @@ while game_run:
         game_over()
     
     # Touching the snake body
-    for block in snake_body[1]:
+    for block in snake_body[1:]:
         if snake_position[0] == block[0] and snake_position[1] == block[1]:
             game_over()
 
